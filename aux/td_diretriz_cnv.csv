@@ -1,0 +1,126 @@
+"nu_diretriz","no_diretriz","co_cid"
+"001",Acidente Vascular Cerebral Isquêmico Agudo,"I630,I631,I632,I633,I634,I635,I636,I638,I639,I650,I651,I652,I653,I658,I659,I660,I661,I662,I663,I664,I668,I669"
+"002",Acne grave,"L700,L701,L708"
+"003",Acromegalia,E220
+"006",Anemia por Deficiência de Ferro,"D500,D508"
+"007",Angioedema,D841
+"008",Aorta Torácica Descendente,I712
+"009",Artrite Idiopática Juvenil,"M080,M081,M082,M083,M084,M088,M089"
+"010",Artrite Psoríaca,"M070,M072,M073"
+"011",Artrite Reativa,"M021,M023,M032,M036"
+"013",Asma,"J450,J451,J458"
+"014",Atrofia Muscular Espinhal,"G120,G121"
+"015",COVID-19,"B342,U04,U049,U071,U072"
+"018",Carcinoma de Mama,"C500,C501,C502,C503,C504,C505,C506,C508,C509"
+"022",Comportamento Agressivo no Autismo,"F840,F841,F843,F845,F848"
+"026",Deficiência de Biotinidase,E889
+"028",Dermatomiosite e Polimiosite,"M330,M331,M332"
+"029",Diabete Melito Tipo 1,"E100,E101,E102,E103,E104,E105,E106,E107,E108,E109"
+"030",Diabete Melito Tipo 2; Retinopatia Diabética,"E10,E11,E112,E113,E114,E115,E116,E117,E118,E119,E12,E13,E14,H360"
+"032",Dislipidemia para a Prevenção de Eventos Cardiov.,"E780,E781,E782,E783,E784,E785,E786,E788"
+"033",Distonias focais e Espasmo Hemifacial,"G243,G244,G245,G248,G513,G518"
+"034",Doença Celíaca,K900
+"035",Doença Enxerto Contra Hospedeiro e no Mieloma,T860
+"036",Doença Falciforme,"D561,D568,D570,D571,D572"
+"039",Doença de Alzheimer,"F000,F001,F002,G300,G301,G308"
+"040",Doença de Chagas,"B57,B570,B571,B572,B573,B574,B575,K231,K931"
+"041",Doença de Crohn,"K500,K501,K508"
+"043",Doença de Paget,"M880,M888"
+"045",Doença de Pompe,E740
+"046",Doença de Wilson,E830
+"047",Dor Crônica,"R521,R522"
+"048",Endometriose,"N800,N801,N802,N803,N804,N805,N808"
+"049",Epidermólise Bolhosa,"L123,Q810,Q811,Q812,Q818,Q819"
+"050",Epilepsia,"G400,G401,G402,G403,G404,G405,G406,G407,G408"
+"051",Esclerose Lateral Amiotrófica,G122
+"053",Esclerose Sistêmica,"M340,M341,M348"
+"054",Espasticidade,"G041,G800,G801,G802,G811,G821,G824,I690,I691,I692,I693,I694,I698,T905,T908"
+"056",Espondilose,"M471,M472,M478"
+"057",Esquizofrenia,"F200,F201,F202,F203,F204,F205,F206,F208"
+"058",Fenilcetonúria,"E700,E701"
+"060",Glaucoma,"H401,H402,H403,H404,H405,H406,H408,Q150"
+"062",Hemangioma Infantil,D180
+"064",Hemoglobinúria Paroxística Noturna,D595
+"065",Hepatite Autoimune,K754
+"037",Doença Pulmonar Obstrutiva Crônica DPOC,"J440,J441,J448"
+"004",Adenocarcinoma de Próstata,"C61 ,D75 ,"
+"016",Carcinoma Diferenciado de Tireoide,"C73 ,"
+"017",Carcinoma de Células Renais,"C64 ,"
+"044",Doença de Parkinson,"G20 ,"
+"052",Esclerose Múltipla,"G35 ,"
+"061",Hanseníase,"B92 ,"
+"063",Hemofilia A e inibidores do fator VIII,"D66 ,D683"
+"055",Espondilite Ancilosante,"M45 ,M468"
+"066",Hepatite B - Coinfecções e Profilaxia pós-transp.,"B160,B162,B180,B181"
+"084",Insuficiência Pancreática Exócrina,"K860,K861,K903"
+"085",Intoxicação aguda por cianeto,"T573,T650"
+"086",Intoxicações por agrotóxicos,"T60,X48,X68,X87,Y18"
+"087",Leimioma de útero,"D250,D251,D252"
+"090",Leucemia/Linfoma Associação ao Vírus HTLV-1,"C844,C915"
+"091",Linfangioleiomiomatose,J848
+"093",Linfoma Folicular,"C820,C821,C822,C827,C829"
+"095",Lúpus Eritematoso Sistêmico,"L930,L931,M321,M328"
+"096",Melanoma Cutâneo,"C43,C430,C431,C432,C433,C434,C436,C437,C438,C439,D03,D030,D031,D032,D033,D034,D035,D036,D037"
+"098",Miastenia Gravis,G700
+"099",Mieloma Múltiplo,"C900,C901,C902,D472"
+"100",Mucopolissacaridose tipo I,E760
+"101",Mucopolissacaridose tipo II,E761
+"103",Neoplasia Maligna Epitelial de Ovário,"C56,C570,C786"
+"104",Osteogênese Imperfeita,Q780
+"105",Osteoporose,"M800,M801,M802,M803,M804,M805,M808,M810,M811,M812,M813,M814,M815,M816,M818,M820,M821,M828"
+"106",Polineuropatia Amiloidótica Familiar,E851
+"107",Psoríase,"L400,L401,L404,L408"
+"108",Puberdade Precoce Central,E228
+"109",Púrpura Trombocitopênica Idiopática,D693
+"110",Retocolite Ulcerativa,"K510,K512,K513,K515,K518"
+"111",Sobrecarga de Ferro,"E831,T454"
+"113",Síndrome Hipereosinofílica com mesilato de imat.,D721
+"114",Síndrome Mielodisplásica,"D460,D461,D464,D467"
+"116",Síndrome de Guillain-Barré,G610
+"117",Síndrome de Ovários Policísticos,"E282,L680"
+"118",Síndrome de Turner,"Q960,Q961,Q962,Q963,Q964,Q968"
+"119",Tabagismo,"F171,F172,F173,T652,Z720"
+"120",Transtorno Afetivo Bipolar do tipo I,"F311,F312,F313,F314,F315,F316,F317"
+"067",Hepatite C e coinfecções,"B171,B182"
+"068",Hidradenite Supurativa,L732
+"069",Hiperplasia Adrenal Congênita,E250
+"070",Hiperprolactinemia,E221
+"071",Hipertensão Arterial Pulmonar,"I270,I272,I278"
+"072",Hipoparatireoidismo,"E200,E201,E208,E892"
+"073",Hipotireoidismo Congênito,"E030,E031"
+"074",Homocistinúria Clássica,E721
+"075",Ictioses Hereditárias,"Q800,Q801,Q802,Q803,Q808,Q809"
+"076",Imunodeficiência Primária,"D800,D801,D803,D805,D806,D807,D808,D830,D832,D838"
+"077",Imunossupressão no Transplante Cardíaco,"T862,Z941"
+"079",Imunossupressão no Transplante Renal,"T861,Z940"
+"081",Infarto Agudo do Miocárdio,"I200,I201,I210,I211,I212,I213,I214,I219,I220,I221,I228,I229,I230,I231,I232,I233,I234,I235,I236,I238,I240,I248,I249"
+"083",Insuficiência Cardíaca - Fração de Ejeção Reduzida,"I500,I501,I509"
+"122",Transtorno Esquizoafetivo,"F250,F251,F252"
+"123",Tromboembolismo Venoso em Gestantes com Trombof.,"D688,I820,I821,I822,I823,I828,O223,O225"
+"124",Tumor Cerebral - Adultos,"C710,C711,C712,C713,C714,C715,C716,C717,C718,C719"
+"125",Uveítes Não-Infecciosas,"H150,H201,H301,H302,H308"
+"059",Fibrose Cística,"E840,E841,E848"
+"042",Doença de Gaucher,E752
+"115",Síndrome Nefrótica Primária,"N040,N041,N042,N043,N044,N045,N046,N047,N048,N049"
+"078",Imunossupressão no Transplante Hepático,"T864,Z944"
+"089",Leucemia Mieloide Aguda,"C920,C921,C923,C924,C925,C927,C930,C931,C937,C940,C942,C943"
+"092",Linfoma Difuso de Grandes Células B,C833
+"094",Linfoma de Hodgkin,"C810,C811,C812,C813,C817,C819"
+"102","Mucopolissacaridose tipo IV, VI e VII",E762
+"038",Doença Renal Crônica,"E550,E559,E643,E833,M830,M831,M832,M833,M838,N180,N182,N183,N184,N185,N188,N250"
+"005",Anemia Hemolítica Autoimune,"D590,D591,D460,D461,D467,D600,D608,D610,D611,D612,D613,D618,D70,Z948"
+"097",Mesotelioma,"C450,C459"
+"021",Colangite Biliar Primária; Câncer de Fígado,"C220,C221,C222,C223,C224,C227,C229"
+"080",Incontinência Urinária não Neurogênica,"N393,N394,R32 ,"
+"082",Insuficiência Adrena e Hipopituitarismo,"E230,E233,E271,E272,E273,E274"
+"121",Transtorno Deficit de Atenção Hiperatividade,"F900,F901,F908,F909"
+"012",Artrite Reumatoide,"M050,M051,M052,M053,M058,M060,M068"
+"020",Carcinoma hepatocelular,"C22 ,"
+"112",Sobrepeso e Obesidade,"E66 ,E660,E661,E662,E668,E669"
+"019",Carcinoma de estômago e esôfago,"C150,C151,C152,C153,C154,C155,C158,C159,C160,C161,C162,C163,C164,C165,C166,C168,C169,C170,C171,C172,C173,C178,C179,C18,C180,C181,C182,C183,C184,C185,C186,C187,C188,C189,C19,C20,C268,C474,C481,C493"
+"024",Câncer de Pulmão,"C34 ,C340,C341,C342,C343,C348,C349"
+"025",Deficiência Intelectual,"F78 ,F780,F781,F788,F789"
+"023",Câncer de Cabeça e Pescoço,"C00 ,C01 ,C02 ,C03 ,C04 ,C05 ,C06 ,C09 ,C10 ,C11 ,C12 ,C13 ,C14 ,C32 ,"
+"088",Leucemia Linfoblástica Aguda Crom. Philad.,"C835,C910"
+"027",Degeneração Macular Relacionada com a Idade,H353
+"031",Diabetes Insípido,E232
