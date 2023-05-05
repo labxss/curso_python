@@ -1,0 +1,86 @@
+"sistema","subsistema","inicio","fim","arquivos","bytes","registros","no_sistema","no_subsistema","no_mantenedor"
+CIH,CR,200801,201104,868,165114178,7676888,Comunicação de Internação Hospitalar,Sistema de Comunicação de Informação Hospitalar,SAES/MS
+CIHA,CIHA,201101,202302,3727,3025767940,209777814,Comunicação de Informação Hospitalar e Ambulatorial ,Sistema de Comunicação de Informação Hospitalar e Ambulatorial,SAES/MS
+CMD,CT,201701,201904,756,16141452019,1166063520,,Contatos Assistenciais,
+CMD,PR,201701,201904,753,19039211283,1254028326,,Procedimentos Realizados,
+CNES,DC,200508,202302,5776,117816811,2630639,Cadastro Nacional de Estabelecimentos de Saúde,Dados Complementares,SAES/MS
+CNES,EE,200703,202107,3201,4559046,26693,Cadastro Nacional de Estabelecimentos de Saúde,Estabelecimento de Ensino,SAES/MS
+CNES,EF,200703,202302,4799,9416273,137407,Cadastro Nacional de Estabelecimentos de Saúde,Estabelecimento Filantrópico,SAES/MS
+CNES,EP,200704,202302,5157,428646276,10352224,Cadastro Nacional de Estabelecimentos de Saúde,Equipes,SAES/MS
+CNES,EQ,200508,202302,5775,1420469914,121899245,Cadastro Nacional de Estabelecimentos de Saúde,Equipamentos,SAES/MS
+CNES,GM,200703,202302,4868,10968374,128963,Cadastro Nacional de Estabelecimentos de Saúde,Gestão e Metas,SAES/MS
+CNES,HB,200703,202302,5184,110272964,3785403,Cadastro Nacional de Estabelecimentos de Saúde,Habilitação,SAES/MS
+CNES,IN,200710,202302,4899,29553319,763103,Cadastro Nacional de Estabelecimentos de Saúde,Incentivos,SAES/MS
+CNES,LT,200510,202302,5643,123389180,10134720,Cadastro Nacional de Estabelecimentos de Saúde,Leitos,SAES/MS
+CNES,PF,200508,202302,5776,36343918231,694956952,Cadastro Nacional de Estabelecimentos de Saúde,Profissional,SAES/MS
+CNES,RC,200703,202302,5205,64249491,1520740,Cadastro Nacional de Estabelecimentos de Saúde,Regra Contratual,SAES/MS
+CNES,SR,200508,202302,5778,1490389442,119650256,Cadastro Nacional de Estabelecimentos de Saúde,Serviço Especializado,SAES/MS
+CNES,ST,200508,202302,5785,3019830309,55411530,Cadastro Nacional de Estabelecimentos de Saúde,Estabelecimentos,SAES/MS
+PNI,CPNI,199412,201912,752,497521883,5531704,Sistema de Informação do Programa Nacional de Imunizações,"",SVS/MS
+PNI,DPNI,199412,201912,752,21470355204,185980463,Sistema de Informação do Programa Nacional de Imunizações,"",SVS/MS
+RESP,RESP,201512,202212,224,3168782,42404,Registro de Eventos em Saúde Pública,,SVS/MS
+SIA,AM,200801,202302,4862,12512566209,262767281,Sistema de Informações Ambulatoriais do SUS a partir de 2008,Laudo de Medicamentos,SAES/MS
+SIA,AMP,201603,202302,435,2957568,38514,Sistema de Informações Ambulatoriais do SUS a partir de 2008,Laudo de Acompanhamento Multiprofissional,SAES/MS
+SIA,AN,200801,201410,2145,458824790,6534272,Sistema de Informações Ambulatoriais do SUS a partir de 2008,Laudo de Nefrologia,SAES/MS
+SIA,AQ,200801,202302,4877,3688343798,45896591,Sistema de Informações Ambulatoriais do SUS a partir de 2008,Laudo de Quimioterapia,SAES/MS
+SIA,AR,200801,202302,4434,308009185,3486944,Sistema de Informações Ambulatoriais do SUS a partir de 2008,Laudo de Radioterapia,SAES/MS
+SIA,ATD,201408,202302,2776,718396136,11140633,Sistema de Informações Ambulatoriais do SUS a partir de 2008,Laudo de Tratamento Dialítico,SAES/MS
+SIA,BI,200801,202302,4914,90729235469,2159925063,Sistema de Informações Ambulatoriais do SUS a partir de 2008,Boletim Individual,SAES/MS
+SIA,PA,199407,202302,9493,131035177511,5089453524,Sistema de Informações Ambulatoriais do SUS a partir de 2008,Produção Ambulatorial,SAES/MS
+SIA,PA,199407,202302,9493,131035177511,5089453524,Sistema de Informações Ambulatoriais do SUS a partir de 2008,Produção Ambulatorial,SAES/MS
+SIA,PS,201211,202302,3288,2056666088,107952557,Sistema de Informações Ambulatoriais do SUS a partir de 2008,Psicossocial,SAES/MS
+SIH,CH,201901,202001,13,2473782,55710,Sistema de Informações Hospitalares do SUS a partir de 2008,"",SAES/MS
+SIH,CM,201901,202001,13,412885,20614,Sistema de Informações Hospitalares do SUS a partir de 2008,"",SAES/MS
+SIH,ER,201101,202302,3825,245998772,11298969,Sistema de Informações Hospitalares do SUS a partir de 2008,Rejeitadas com Código de Erro,SAES/MS
+SIH,RD,199201,202302,10078,21826239755,382021577,Sistema de Informações Hospitalares do SUS a partir de 2008,Reduzido de AIH,SAES/MS
+SIH,RD,199201,202302,10078,21826239755,382021577,Sistema de Informações Hospitalares do SUS a partir de 2008,Reduzido de AIH,SAES/MS
+SIH,RJ,200604,202302,5301,812850886,13608766,Sistema de Informações Hospitalares do SUS a partir de 2008,AIH rejeitada,SAES/MS
+SIH,RJ,200604,202302,5301,812850886,13608766,Sistema de Informações Hospitalares do SUS a partir de 2008,AIH rejeitada,SAES/MS
+SIH,SP,199706,202302,8333,44036672390,2535732949,Sistema de Informações Hospitalares do SUS a partir de 2008,Serviços Profissionais,SAES/MS
+SIH,SP,199706,202302,8333,44036672390,2535732949,Sistema de Informações Hospitalares do SUS a partir de 2008,Serviços Profissionais,SAES/MS
+SIM,DO,201996,202020,677,2115915593,30809492,Sistema de Informações de Mortalidade,Declarações de Óbitos,SVS/MS
+SIM,DOE,199612,202012,25,231993974,3411046,Sistema de Informações de Mortalidade,Declarações de Óbitos por causas externas,SVS/MS
+SIM,DOF,199612,202012,25,55630269,857664,Sistema de Informações de Mortalidade,Declarações de Óbitos Fetais,SVS/MS
+SIM,DOI,199612,202012,25,85803574,1229005,Sistema de Informações de Mortalidade,Declarações de Óbitos infantis,SVS/MS
+SIM,DOM,199612,202012,25,3617774,42463,Sistema de Informações de Mortalidade,Declarações de Óbitos maternos,SVS/MS
+SIM,DORE,201312,202012,8,310723,3464,Sistema de Informações de Mortalidade,,SVS/MS
+SINAN,ANIM,200712,201912,13,92898477,2190090,Sistema de Informação de Agravos de Notificação,Animais Peçonhentos,SVS/MS
+SINAN,ANTR,200612,201812,13,362643350,7433028,Sistema de Informação de Agravos de Notificação,,SVS/MS
+SINAN,BOTU,200712,201912,13,94082,258,Sistema de Informação de Agravos de Notificação,Botulismo,SVS/MS
+SINAN,CANC,200712,201812,12,101893,1627,Sistema de Informação de Agravos de Notificação,,SVS/MS
+SINAN,CHAG,200012,201912,20,2726300,55967,Sistema de Informação de Agravos de Notificação,Doença de Chagas,SVS/MS
+SINAN,CHIK,201512,202012,6,30940900,1016957,Sistema de Informação de Agravos de Notificação,,SVS/MS
+SINAN,COLE,200712,201912,13,34752,3,Sistema de Informação de Agravos de Notificação,Cólera,SVS/MS
+SINAN,COQU,200712,202012,14,7848636,121324,Sistema de Informação de Agravos de Notificação,Coqueluche,SVS/MS
+SINAN,DENG,200012,202012,21,803857195,20955315,Sistema de Informação de Agravos de Notificação,Dengue e Chikungunya,SVS/MS
+SINAN,DERM,200612,201812,13,373854,6940,Sistema de Informação de Agravos de Notificação,,SVS/MS
+SINAN,DIFT,200712,202012,14,112608,911,Sistema de Informação de Agravos de Notificação,Difteria,SVS/MS
+SINAN,ESQU,200712,201812,12,7066445,149035,Sistema de Informação de Agravos de Notificação,Esquitossomose,SVS/MS
+SINAN,FMAC,200712,201712,11,1492961,22312,Sistema de Informação de Agravos de Notificação,Febre Maculosa,SVS/MS
+SINAN,FTIF,201312,201712,5,64790,569,Sistema de Informação de Agravos de Notificação,Febre Tifóide,SVS/MS
+SINAN,HANS,200112,201812,18,46485742,812566,Sistema de Informação de Agravos de Notificação,Hanseníase,SVS/MS
+SINAN,HANT,200712,201712,11,1547392,16091,Sistema de Informação de Agravos de Notificação,Hantavirose,SVS/MS
+SINAN,IEXO,200612,201812,13,75610617,992318,Sistema de Informação de Agravos de Notificação,Intoxicação exógena,SVS/MS
+SINAN,LEIV,200012,202112,22,11919097,173483,Sistema de Informação de Agravos de Notificação,Leishmaniose Visceral,SVS/MS
+SINAN,LERD,200612,201812,13,4342592,86859,Sistema de Informação de Agravos de Notificação,,SVS/MS
+SINAN,LTA,200012,202112,22,34161191,503137,Sistema de Informação de Agravos de Notificação,,SVS/MS
+SINAN,LTAN,200712,202012,13,12386986,262750,Sistema de Informação de Agravos de Notificação,Leishimaniose Tegumentar Americana,SVS/MS
+SINAN,MALA,200412,201812,15,2085186,48780,Sistema de Informação de Agravos de Notificação,Malária,SVS/MS
+SINAN,MENI,200712,201912,13,35084137,382724,Sistema de Informação de Agravos de Notificação,Meningite,SVS/MS
+SINAN,MENT,200612,201812,13,488100,10483,Sistema de Informação de Agravos de Notificação,,SVS/MS
+SINAN,NTRA,201012,201812,9,570668,28182,Sistema de Informação de Agravos de Notificação,,SVS/MS
+SINAN,PAIR,200612,201812,13,376011,7335,Sistema de Informação de Agravos de Notificação,,SVS/MS
+SINAN,PEST,200712,201712,11,25945,147,Sistema de Informação de Agravos de Notificação,Peste,SVS/MS
+SINAN,PFAN,201212,201912,8,511267,3905,Sistema de Informação de Agravos de Notificação,Paralisia Flácida Aguda,SVS/MS
+SINAN,PNEU,200612,201812,13,206538,4487,Sistema de Informação de Agravos de Notificação,,SVS/MS
+SINAN,RAIV,200712,202112,15,143589,1679,Sistema de Informação de Agravos de Notificação,Raiva Humana,SVS/MS
+SINAN,SDTA,200712,201812,11,697007,7341,Sistema de Informação de Agravos de Notificação,,SVS/MS
+SINAN,TETA,200712,202012,14,532796,8212,Sistema de Informação de Agravos de Notificação,Tetano Acidental,SVS/MS
+SINAN,TETN,201412,201912,6,14680,3,Sistema de Informação de Agravos de Notificação,Tetano Neonatal,SVS/MS
+SINAN,TRAC,201012,201812,9,1478054,158031,Sistema de Informação de Agravos de Notificação,,SVS/MS
+SINAN,TUBE,200112,201712,17,78521588,1494473,Sistema de Informação de Agravos de Notificação,Tuberculose,SVS/MS
+SINAN,VIOL,200912,201912,11,168873447,2299552,Sistema de Informação de Agravos de Notificação,Violência Interpessoal ou Autoprovocada,SVS/MS
+SINAN,ZIKA,201612,202012,5,6296071,386099,Sistema de Informação de Agravos de Notificação,,SVS/MS
+SINASC,DN,201996,202020,679,3480922782,86176341,Sistema de Informações sobre Nascidos Vivos,Declaraçõe de Nascidos Vivos,SVS/MS
+SINASC,DNR,199412,201995,108,198904148,10792600,Sistema de Informações sobre Nascidos Vivos,Nascimentos por UF de residência,SVS/MS
+SISPRENATAL,PN,201201,201412,944,232410320,5591213,Sistema de Informação do Pré-natal,,SVS/MS
