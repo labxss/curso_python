@@ -1,0 +1,38 @@
+Variável,descrição
+usuariosus,Cartão Nacional de Saúde criptografado
+qt_registro,Registros para a doença selecionada
+sexo_f,Registros para a doença selecionada assinalados com sexo feminino
+idade_min,idade mínima referente ao primeiro registro da doença selecionada
+idade_max,idade mínima referente ao primeiro registro da doença selecionada
+co_mes_min,código sequencial de mês referete ao primeiro registro da doença selecionada (corresponde ao campo co_seq_mes_ano da tabela td_tempo_ano_mes)
+co_mes_max,código sequencial de mês referete ao primeiro registro da doença selecionada (corresponde ao campo co_seq_mes_ano da tabela td_tempo_ano_mes)
+co_seq_diretriz,código sequencial da diretriz da doença selecionada (corresponde ao campo nu_diretriz da tabela td_diretriz_cnv)
+co_seq_cidpri,código sequencial do diagnóstico primário da doença selecionada (corresponde ao campo co_seq da tabela td_doenca_cid10)
+co_seq_procedimento,código sequencial do procedimento realizado para a doença selecionada (corresponde ao campo co_seq_procedimento da tabela td_sigtap)
+co_seq_gestao,código sequencial do território que realizou o procedimento para a doença selecionada (corresponde ao campo co_seq_territorio da tabela td_territorio)
+co_cnes_estabelecimento,código CNES do estabelecimento de saúde que realizou os procedimentos para a doença selecionada
+co_seq_municipio_residencia,código sequencial do município de residência do usuário do SUS tratado para a doença selecionada (corresponde ao campo co_seq_territorio da tabela td_territorio)
+vl_aprovado,valor reportado no SIA  SUS para a doença selecionada
+qt_esquema1,Sigla dos esquemas informados pelo estabelecimento de saúde (sic)
+qt_esquema2,Sigla dos esquemas informados pelo estabelecimento de saúde (sic)
+intervalo6meses,Retorno ao atendimento no SIA sus para a doença selecionada com intervalo superior a 6 meses
+intervalo12meses,Retorno ao atendimento no SIA sus para a doença selecionada com intervalo superior a 12 meses
+intervalo24meses,Retorno ao atendimento no SIA sus para a doença selecionada com intervalo superior a 24 meses
+intervalo36meses,Retorno ao atendimento no SIA sus para a doença selecionada com intervalo superior a 36 meses
+intervalo48meses,Retorno ao atendimento no SIA sus para a doença selecionada com intervalo superior a 48 meses
+intervalo60meses,Retorno ao atendimento no SIA sus para a doença selecionada com intervalo superior a 60 meses
+qt_registro_total,Registros no SIA
+sexo_f_total,Registros no SIA assinalados com sexo feminino
+idade_min_total,idade mínima referente ao primeiro registro no SIA
+idade_max_total,idade mínima referente ao primeiro registro no SIA
+co_mes_min_total,código sequencial de mês referete ao primeiro registro no SIA (corresponde ao campo co_seq_mes_ano da tabela td_tempo_ano_mes)
+co_mes_max_total,código sequencial de mês referete ao primeiro registro no SIA (corresponde ao campo co_seq_mes_ano da tabela td_tempo_ano_mes)
+co_seq_diretriz_total,código sequencial da diretriz no SIA (corresponde ao campo nu_diretriz da tabela td_diretriz_cnv)
+co_seq_cidpri_total,código sequencial do diagnóstico primário registrado no SIA (corresponde ao campo co_seq da tabela td_doenca_cid10)
+co_seq_procedimento_total,código sequencial do procedimento registrado no SIA (corresponde ao campo co_seq_procedimento da tabela td_sigtap)
+co_seq_gestao_total,código sequencial do território que realizou o procedimento registrado no SIA (corresponde ao campo co_seq_territorio da tabela td_territorio)
+co_cnes_estabelecimento_total,código CNES do estabelecimento de saúde que realizou os procedimentos registrados no SIA
+co_seq_municipio_residencia_total,código sequencial do município de residência do usuário do SUS registrado no SIA (corresponde ao campo co_seq_territorio da tabela td_territorio)
+vl_aprovado_total,valor reportado no SIA
+qt_esquema1_total,Sigla dos esquemas informados pelo estabelecimento de saúde no SIA (sic)
+qt_esquema2_total,Sigla dos esquemas informados pelo estabelecimento de saúde no SIA (sic)
